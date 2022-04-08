@@ -1,4 +1,4 @@
-// Package therepublic 理想国
+// Package therepublic 理想国 Salute Plato
 package therepublic
 
 // Person 人有心灵和身体两种属性
